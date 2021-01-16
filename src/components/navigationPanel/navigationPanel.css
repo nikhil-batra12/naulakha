@@ -1,0 +1,5 @@
+.navbar-dark .navbar-nav .nav-link,
+.navbar-dark .navbar-nav .nav-link a {
+  color: white !important;
+  font-size: 22px;
+}
